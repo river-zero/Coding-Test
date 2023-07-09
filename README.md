@@ -8,3 +8,4 @@ a space for code test.
 - [Duplicate Zeros](Arrays-101/duplicate-zeros.cpp)
 - [Merge Sorted Array](Arrays-101/merge-sorted-array.cpp)
 - [Remove Element](Arrays-101/remove-element.cpp)
+- [Remove Duplicates from Sorted Array](Arrays-101/remove-duplicates-from-sorted-array.cpp)
