@@ -9,3 +9,4 @@ a space for code test.
 - [Merge Sorted Array](merge-sorted-array/README.md)
 - [Remove Element](remove-element/README.md)
 - [Remove Duplicates from Sorted Array](remove-duplicates-from-sorted-array/README.md)
+- [Check If N and Its Double Exist](check-if-n-and-its-double-exist/README.md)
