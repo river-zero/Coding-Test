@@ -1,6 +1,3 @@
-# code-test
-a space for code test.
-
 ## Arrays 101
 - [Max Consecutive Ones](0max-consecutive-ones/README.md)
 - [Find Numbers with Even Number of Digits](find-numbers-with-even-number-of-digits/README.md)
