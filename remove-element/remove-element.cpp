@@ -2,9 +2,9 @@ class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
         int i = 0;
-        int n = nums.size();
+        int j = 0;
         
-        for (int j{}; j < n; j++) {
+        for (; j < nums.size(); j++) {
             if (nums[j] != val) {
                 nums[i] = nums[j];
                 i++;
