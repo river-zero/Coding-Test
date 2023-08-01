@@ -9,6 +9,7 @@
 - [Check If N and Its Double Exist](/check-if-n-and-its-double-exist/check-if-n-and-its-double-exist.cpp)
 - [Valid Mountain Array](/valid-mountain-array/valid-mountain-array.cpp)
 - [Replace Elements with Greatest Element on Right Side](/replace-elements-with-greatest-element-on-right-side/replace-elements-with-greatest-element-on-right-side.cpp)
-- [Remove Duplicates from Sorted Array](/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp)
 - [Move Zeroes](/move-zeroes/move-zeroes.cpp)
 - [Sort Array By Parity](/sort-array-by-parity/sort-array-by-parity.cpp)
+- [Height Checker](/height-checker/height-checker.cpp)
+- [Third Maximum Number](/third-maximum-number/third-maximum-number.cpp)
