@@ -1,13 +1,16 @@
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
-        for (int i{}; i < nums.size(); i++) {
-            nums[i] *= nums[i];
+        int n = nums.size();
+        vector<int> result(n);
+        
+        for (int i = 0; i < n; i++) {
+        result[i] = nums[i] * nums[i];
         }
         
-        sort(nums.begin(), nums.end());
+        sort(result.begin(), result.end());
         
-        return nums;
+        return result;
     }
 };
 
@@ -36,6 +39,21 @@ public:
         }
 
         return result;
+    }
+};
+-------------------------------------------------------------*/
+
+/*-------------------------------------------------------------
+class Solution {
+public:
+    vector<int> sortedSquares(vector<int>& nums) {
+        for (int i{}; i < nums.size(); i++) {
+            nums[i] *= nums[i];
+        }
+        
+        sort(nums.begin(), nums.end());
+        
+        return nums;
     }
 };
 -------------------------------------------------------------*/
