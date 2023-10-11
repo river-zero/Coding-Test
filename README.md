@@ -21,3 +21,5 @@
 - [Plus One](plus-one/plus-one.cpp)
 - [Two Sum](0two-sum/0two-sum.cpp)
 - [Valid Sudoku](valid-sudoku/valid-sudoku.cpp)
+- [Rotate Image](rotate-image/rotate-image.cpp)
+- [Reverse String](reverse-string/reverse-string.cpp)
