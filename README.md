@@ -23,3 +23,4 @@
 - [Valid Sudoku](valid-sudoku/valid-sudoku.cpp)
 - [Rotate Image](rotate-image/rotate-image.cpp)
 - [Reverse String](reverse-string/reverse-string.cpp)
+- [Reverse Integer](reverse-integer/reverse-integer.cpp)
