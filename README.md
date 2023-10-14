@@ -26,3 +26,4 @@
 - [Reverse Integer](reverse-integer/reverse-integer.cpp)
 - [First Unique Character in a String](first-unique-character-in-a-string/first-unique-character-in-a-string.cpp)
 - [Valid Anagram](valid-anagram/valid-anagram.cpp)
+- [Valid Palindrome](valid-palindrome/valid-palindrome.cpp)
