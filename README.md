@@ -27,3 +27,4 @@
 - [First Unique Character in a String](first-unique-character-in-a-string/first-unique-character-in-a-string.cpp)
 - [Valid Anagram](valid-anagram/valid-anagram.cpp)
 - [Valid Palindrome](valid-palindrome/valid-palindrome.cpp)
+- [String to Integer (atoi)](string-to-integer-atoi/string-to-integer-atoi.cpp)
