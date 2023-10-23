@@ -28,3 +28,6 @@
 - [Valid Anagram](valid-anagram/valid-anagram.cpp)
 - [Valid Palindrome](valid-palindrome/valid-palindrome.cpp)
 - [String to Integer (atoi)](string-to-integer-atoi/string-to-integer-atoi.cpp)
+- [Delete Node in a Linked List](delete-node-in-a-linked-list/delete-node-in-a-linked-list.cpp)
+- [Implement strStr()](implement-strstr/implement-strstr.cpp)
+- [Longest Common Prefix](longest-common-prefix/longest-common-prefix.cpp)
