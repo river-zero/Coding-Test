@@ -37,3 +37,4 @@
 - [Palindrome Linked List](palindrome-linked-list/palindrome-linked-list.cpp)
 - [Linked List Cycle](linked-list-cycle/linked-list-cycle.cpp)
 - [Maximum Depth of Binary Tree](maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.cpp)
+- [Validate Binary Search Tree](validate-binary-search-tree/validate-binary-search-tree.cpp)
