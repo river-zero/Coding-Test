@@ -38,3 +38,5 @@
 - [Linked List Cycle](linked-list-cycle/linked-list-cycle.cpp)
 - [Maximum Depth of Binary Tree](maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.cpp)
 - [Validate Binary Search Tree](validate-binary-search-tree/validate-binary-search-tree.cpp)
+- [Symmetric Tree](symmetric-tree/symmetric-tree.cpp)
+- [Binary Tree Level Order Traversal](binary-tree-level-order-traversal/binary-tree-level-order-traversal.cpp)
