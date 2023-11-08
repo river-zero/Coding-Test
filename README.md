@@ -40,3 +40,4 @@
 - [Validate Binary Search Tree](validate-binary-search-tree/validate-binary-search-tree.cpp)
 - [Symmetric Tree](symmetric-tree/symmetric-tree.cpp)
 - [Binary Tree Level Order Traversal](binary-tree-level-order-traversal/binary-tree-level-order-traversal.cpp)
+- [Convert Sorted Array to Binary Search Tree](convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.cpp)
