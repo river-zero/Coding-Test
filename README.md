@@ -46,3 +46,4 @@
 - [Best Time to Buy and Sell Stock](best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.cpp)
 - [Maximum Subarray](maximum-subarray/maximum-subarray.cpp)
 - [House Robber](house-robber/house-robber.cpp)
+- [Shuffle an Array](shuffle-an-array/shuffle-an-array.cpp)
