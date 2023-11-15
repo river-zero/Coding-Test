@@ -47,3 +47,4 @@
 - [Maximum Subarray](maximum-subarray/maximum-subarray.cpp)
 - [House Robber](house-robber/house-robber.cpp)
 - [Shuffle an Array](shuffle-an-array/shuffle-an-array.cpp)
+- [Min Stack](0min-stack/0min-stack.cpp)
