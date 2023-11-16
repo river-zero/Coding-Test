@@ -48,3 +48,7 @@
 - [House Robber](house-robber/house-robber.cpp)
 - [Shuffle an Array](shuffle-an-array/shuffle-an-array.cpp)
 - [Min Stack](0min-stack/0min-stack.cpp)
+- [Fizz Buzz](fizz-buzz/fizz-buzz.cpp)
+- [Count Primes](count-primes/count-primes.cpp)
+- [Power of Three](power-of-three/power-of-three.cpp)
+- [Roman to Integer](roman-to-integer/roman-to-integer.cpp)
