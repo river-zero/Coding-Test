@@ -5,11 +5,13 @@ public:
         std::unordered_map<char, char> map = {{'(', ')'}, {'[', ']'}, {'{', '}'}};
      
         for (char c : s) {
-            // 괄호가 있는 경우
+            // 여는 괄호를 만난 경우
             if (map.find(c) != map.end()) {
                 stack.push(c);
-            // 괄호가 없는 경우
+            // 닫는 괄호를 만난 경우
             } else {
+                // 스택이 비었거나
+                // 괄호가 일치하지 않는 경우 false
                 if (stack.empty() || map[stack.top()] != c) {
                     return false;
                 }
