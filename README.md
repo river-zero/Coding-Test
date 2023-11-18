@@ -58,3 +58,4 @@
 - [Pascal's Triangle](pascals-triangle/pascals-triangle.cpp)
 - [Valid Parentheses](valid-parentheses/valid-parentheses.cpp)
 - [Missing Number](missing-number/missing-number.cpp)
+- [3Sum](3sum/3sum.cpp)
