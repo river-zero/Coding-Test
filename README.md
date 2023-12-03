@@ -75,6 +75,11 @@
 - [String Compression](/LeetCode/0443-string-compression/0443-string-compression.cpp)
 - [Is Subsequence](/LeetCode/0392-is-subsequence/0392-is-subsequence.cpp)
 - [Container With Most Water](/LeetCode/0011-container-with-most-water/0011-container-with-most-water.cpp)
+- [Max Number of K-Sum Pairs](/LeetCode/1679-max-number-of-k-sum-pairs/1679-max-number-of-k-sum-pairs.cpp)
+- [Maximum Average Subarray I](/LeetCode/0643-maximum-average-subarray-i/0643-maximum-average-subarray-i.cpp)
+- [Maximum Number of Vowels in a Substring of Given Length](/LeetCode/1456-maximum-number-of-vowels-in-a-substring-of-given-length/1456-maximum-number-of-vowels-in-a-substring-of-given-length.cpp)
+- [Max Consecutive Ones III](/LeetCode/1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.cpp)
+- [Longest Subarray of 1's After Deleting One Element](/LeetCode/1493-longest-subarray-of-1s-after-deleting-one-element/1493-longest-subarray-of-1s-after-deleting-one-element.cpp)
 
 ## 프로그래머스
 - [달리기 경주](프로그래머스/1/178871. 달리기 경주/달리기 경주.cpp)
