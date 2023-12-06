@@ -80,6 +80,8 @@
 - [Maximum Number of Vowels in a Substring of Given Length](/LeetCode/1456-maximum-number-of-vowels-in-a-substring-of-given-length/1456-maximum-number-of-vowels-in-a-substring-of-given-length.cpp)
 - [Max Consecutive Ones III](/LeetCode/1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.cpp)
 - [Longest Subarray of 1's After Deleting One Element](/LeetCode/1493-longest-subarray-of-1s-after-deleting-one-element/1493-longest-subarray-of-1s-after-deleting-one-element.cpp)
+- [Find the Highest Altitude](/Leetcode//1732-find-the-highest-altitude/1732-find-the-highest-altitude.cpp)
+- [Find Pivot Index](/LeetCode/0724-find-pivot-index/0724-find-pivot-index.cpp)
 
 ## 프로그래머스
 - [달리기 경주](프로그래머스/1/178871. 달리기 경주/달리기 경주.cpp)
