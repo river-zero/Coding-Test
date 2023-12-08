@@ -82,6 +82,7 @@
 - [Longest Subarray of 1's After Deleting One Element](/LeetCode/1493-longest-subarray-of-1s-after-deleting-one-element/1493-longest-subarray-of-1s-after-deleting-one-element.cpp)
 - [Find the Highest Altitude](/Leetcode//1732-find-the-highest-altitude/1732-find-the-highest-altitude.cpp)
 - [Find Pivot Index](/LeetCode/0724-find-pivot-index/0724-find-pivot-index.cpp)
+- [Find the Difference of Two Arrays]()
 
 ## 프로그래머스
 - [달리기 경주](프로그래머스/1/178871. 달리기 경주/달리기 경주.cpp)
