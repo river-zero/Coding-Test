@@ -83,6 +83,7 @@
 - [Find the Highest Altitude](/Leetcode//1732-find-the-highest-altitude/1732-find-the-highest-altitude.cpp)
 - [Find Pivot Index](/LeetCode/0724-find-pivot-index/0724-find-pivot-index.cpp)
 - [Find the Difference of Two Arrays](/LeetCode/2215-find-the-difference-of-two-arrays/2215-find-the-difference-of-two-arrays.cpp)
+- [Unique Number of Occurrences](/LeetCode/1207-unique-number-of-occurrences/1207-unique-number-of-occurrences.cpp)
 
 ## 프로그래머스
 - [달리기 경주](프로그래머스/1/178871. 달리기 경주/달리기 경주.cpp)
