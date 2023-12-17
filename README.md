@@ -80,7 +80,7 @@
 - [Maximum Number of Vowels in a Substring of Given Length](/LeetCode/1456-maximum-number-of-vowels-in-a-substring-of-given-length/1456-maximum-number-of-vowels-in-a-substring-of-given-length.cpp)
 - [Max Consecutive Ones III](/LeetCode/1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.cpp)
 - [Longest Subarray of 1's After Deleting One Element](/LeetCode/1493-longest-subarray-of-1s-after-deleting-one-element/1493-longest-subarray-of-1s-after-deleting-one-element.cpp)
-- [Find the Highest Altitude](/Leetcode//1732-find-the-highest-altitude/1732-find-the-highest-altitude.cpp)
+- [Find the Highest Altitude](/LeetCode/1732-find-the-highest-altitude/1732-find-the-highest-altitude.cpp)
 - [Find Pivot Index](/LeetCode/0724-find-pivot-index/0724-find-pivot-index.cpp)
 - [Find the Difference of Two Arrays](/LeetCode/2215-find-the-difference-of-two-arrays/2215-find-the-difference-of-two-arrays.cpp)
 - [Unique Number of Occurrences](/LeetCode/1207-unique-number-of-occurrences/1207-unique-number-of-occurrences.cpp)
