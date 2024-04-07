@@ -262,3 +262,4 @@
 - [집합](https://github.com/river-zero/Coding_Test/blob/main/%EB%B0%B1%EC%A4%80/Silver/11723.%E2%80%85%EC%A7%91%ED%95%A9/%EC%A7%91%ED%95%A9.cc)
 - [쉬운 최단거리](https://github.com/river-zero/Coding_Test/blob/main/%EB%B0%B1%EC%A4%80/Silver/14940.%E2%80%85%EC%89%AC%EC%9A%B4%E2%80%85%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/%EC%89%AC%EC%9A%B4%E2%80%85%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.cc)
 - [뒤집기](https://github.com/river-zero/Coding_Test/blob/main/%EB%B0%B1%EC%A4%80/Silver/1439.%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0/%EB%92%A4%EC%A7%91%EA%B8%B0.cc)
+- [쇠막대기](https://github.com/river-zero/Coding_Test/blob/main/%EB%B0%B1%EC%A4%80/Silver/10799.%E2%80%85%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0/%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0.cc)
