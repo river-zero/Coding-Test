@@ -20,11 +20,11 @@ int main() {
     int min_length = INT_MAX;
 
     while (end < N) {
-        // 윈도우의 끝을 확장하여 합을 증가시킵니다.
+        // 윈도우의 끝을 확장하여 합을 증가
         current_sum += arr[end];
         end++;
 
-        // 합이 S 이상일 때 시작점을 이동하여 윈도우를 축소합니다.
+        // 합이 S 이상일 때 시작점을 이동하여 윈도우를 축소
         while (current_sum >= S) {
             min_length = min(min_length, end - start);
             current_sum -= arr[start];
